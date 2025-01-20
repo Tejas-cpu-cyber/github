@@ -2,3 +2,4 @@ Git steps
 1] Modified
 2] Staged
 3] Commited
+4] Push
